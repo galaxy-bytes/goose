@@ -11,6 +11,7 @@ import RateLimits from '@site/src/components/RateLimits';
 
 # Install Goose
 
+
 <SupportedEnvironments />
 
 <Tabs>
@@ -83,6 +84,8 @@ import RateLimits from '@site/src/components/RateLimits';
     ```bash
     wsl --install
     ```
+
+    TEST
 
     2. Restart your computer if prompted.
 
