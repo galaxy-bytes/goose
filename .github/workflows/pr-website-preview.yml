@@ -55,6 +55,6 @@ jobs:
 
       - name: Deploy preview
         uses: rossjrw/pr-preview-action@v1
-        if: ${{ github.event.pull_request.head.repo.full_name == 'block/goose' }}
+        if: ${{ github.event.pull_request.head.repo.full_name == 'galaxy-bytes/goose' }}
         with:
           source-dir: combined-build
