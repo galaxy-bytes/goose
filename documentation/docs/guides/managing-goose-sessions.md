@@ -7,6 +7,8 @@ import TabItem from '@theme/TabItem';
 
 # Managing Goose Sessions
 
+TEST
+
 A session is a single, continuous interaction between you and Goose, providing a space to ask questions and prompt action. In this guide, we'll cover how to start, exit, and resume a session. 
 
 
